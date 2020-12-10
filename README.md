@@ -10,9 +10,11 @@
 
 ## React Admin
 - [react-admin docs](https://www.npmjs.com/package/react-admin)
-- ```
+`
 npm i react-admin
-```
+`
+
+
 
 
 
