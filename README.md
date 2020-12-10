@@ -1,6 +1,6 @@
 # Reract Admin Sandbox  -  React App
 
--This is a React Admin Sandbox!
+- This is a React Admin Sandbox!
 
 
 ## Technologies used
